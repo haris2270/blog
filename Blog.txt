@@ -1,0 +1,13 @@
+Hello Dear!
+
+hope you are Fine.In first I amd Download the jsrt_metadata.csv File from given Link and then I import on jupyter Notebook
+dataset = pd.read_csv("jsrt_metadata.csv")
+andthen i read the Question's and Write Queries.
+1) in First I write the Queriey to find the total Number of Patient How has diagnosis and Plot histogram
+2) In the 2nd Quiestion  I write the Queriey and Find disease (diagnosis) with respect to the disease state(malignant or benign) and
+plot in a pie chart.
+3) In third I write the Queriey and find the total number of patients of each disease (diagnosis) with respect to the gender(Female,
+Male.
+
+Thank you & Regards!
+Haris:)
